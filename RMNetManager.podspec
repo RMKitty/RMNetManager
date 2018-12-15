@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "RMNetManager"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A simple wrapper Alamofire for HTTP/HTTPs post and get."
 
   spec.description  = <<-DESC
