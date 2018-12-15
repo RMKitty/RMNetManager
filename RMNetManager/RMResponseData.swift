@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct RMResponseData {
+public struct RMResponseData {
     /// original response data
     var response: Any?
     /// default nil. that is a error if not nil.
