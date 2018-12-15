@@ -1,12 +1,12 @@
 //
 //  RMResponseData.swift
-//  RMNetWorkManager
+//  RMNetManager
 //
-//  Created by RM  on 2018/11/28.
-//  Copyright © 2018 __RM__. All rights reserved.
+//  Created by R_M_ on 2018/12/15.
+//  Copyright © 2018 R丶M. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 struct RMResponseData {
     /// original response data
